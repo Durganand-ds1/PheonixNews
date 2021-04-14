@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-color: black;
+  height: 90px;
+  box-shadow: 0 -5px 5px -5px rgb(247, 51, 51);
+}
+a {
+  outline: none;
+  list-style: none;
+  outline: none;
+  text-decoration: none;
+  color: green;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1.3rem;
+}
+a:hover {
+  font-weight: 900;
+  color: yellowgreen;
+}
